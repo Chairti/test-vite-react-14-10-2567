@@ -7,6 +7,7 @@ function Navbar() {
         <h1>Logo</h1>
         <p>Home</p>
         <p>New</p>
+        <p>About</p>
       </div>
     </>
   );
